@@ -1,4 +1,4 @@
-name: Build code, rununit test, run SAST, SCA, DASTsecurity scans
+name: Build code, rununit test, run SAST, SCA, DAST security scans
 on: push
 
 jobs:
